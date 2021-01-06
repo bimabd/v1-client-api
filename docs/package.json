@@ -1,0 +1,19 @@
+{
+  "name": "apidoc",
+  "version": "0.0.1",
+  "description": "Documentation Of Bimabd Api",
+  "main": "index.js",
+  "authors": {
+    "name": "shibu deb polo",
+    "email": "polodev10@gmail.com"
+  },
+  "repository": "/apidoc",
+  "scripts": {
+    "dev": "vuepress dev src",
+    "build": "vuepress build src"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.8.0"
+  }
+}
