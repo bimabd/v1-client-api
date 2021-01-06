@@ -8,7 +8,7 @@ Test Credentials / Client Key: Will be shared to you in personal email
 
 ## Countries       
 
-Getting list of countries with country code before making quotation 
+Getting list of countries with country code before making quotation request
 
 ~~~
 https://sandbox.bimabd.com/api/client/v1/omc/countries
