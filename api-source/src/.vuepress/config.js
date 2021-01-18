@@ -44,9 +44,9 @@ module.exports = {
       //   link: '/config/'
       // },
       {
-        text: 'Bimabd',
-        link: 'https://bimabd.com'
-      }
+        text: 'Sandbox Bimabd',
+        link: 'https://sandbox.bimabd.com'
+      },
     ],
     // sidebar: {
     //   '/guide/': [
