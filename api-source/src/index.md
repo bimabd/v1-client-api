@@ -5,6 +5,11 @@ Sandbox URL: [https://sandbox.bimabd.com](https://sandbox.bimabd.com)
 
 Test Credentials / Client Key: Will be shared to you in personal email
 
+### Headers Setup 
+~~~
+Accept: application/json
+~~~
+
 
 ## Countries       
 
@@ -130,7 +135,7 @@ Form Data
 
   "delivery_name" : 'Nizam Alvi',
   "delivery_address" : 'House 15, Road 11, Gudaraghat Badda, Dhaka',
-  "contact_number" : '01670978989',
+  "mobile" : '01670978989',
   "client_key" : 'c0f51405c5767e80c579b8f7699e6ac82ca6680420e02191e562ec9c9e0308b1221865655958f435d7f8a6b863844d953fd42cd262839f3d24176525628caa2e'
 }
 ~~~
